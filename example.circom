@@ -1,6 +1,6 @@
 pragma circom 2.0.0;
 
-/* Plantilla que multiplica dos números */
+
 template Multiplier2() {
     signal input a;
     signal input b;
